@@ -1,0 +1,11 @@
+# Arquivos temporários
+*.log
+*.swp
+*.tmp
+
+# Arquivos de configuração
+.DS_Store
+Thumbs.db
+
+# Ambiente
+.env
